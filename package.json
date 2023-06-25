@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "1.0.0",
+  "description": "Node file manager for educational purposes(RSSchool)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Commandor05/nodejs-file-manager.git"
+  },
+  "keywords": [
+    "node-file-manager"
+  ],
+  "author": "Oleh Kaliuzhnyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Commandor05/nodejs-file-manager/issues"
+  },
+  "homepage": "https://github.com/Commandor05/nodejs-file-manager#readme"
+}
