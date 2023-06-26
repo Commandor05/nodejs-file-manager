@@ -8,3 +8,8 @@ export function messageWithEol(message) {
 export function printMessageWithEol(message) {
   stdout.write(messageWithEol(message));
 }
+
+export function printCurrentPath(path) {
+  const message = `You are currently in ${path}`;
+  printMessageWithEol(message);
+}
